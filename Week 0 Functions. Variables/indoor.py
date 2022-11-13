@@ -1,22 +1,8 @@
-# Intall 3rd party libray
-# pip install inflect
+def main():
+    # Ask for input from user
+    ask = input("What`s on your mind? ").lower()
 
-# Import the library
-import inflect
-p = inflect.engine()
+    # Print the input
+    print(f"{ask}")
 
-# Define a list in which all inputs whill be stored
-list = []
-
-# iInfinite loop to ask user for one or mutiple names
-while True:
-    # Define exceptions
-    try:
-        # Get input from user
-        x = input()
-        # Add input to list
-        list.append(x)
-    except EOFError:
-        print("Adieu, adieu, to " + p.join(list))
-        break
-        # sys.exit("Adieu, adieu, to " + p.join(list))
+main()
