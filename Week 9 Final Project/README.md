@@ -1,6 +1,7 @@
 # Academic Honesty
 https://cs50.harvard.edu/python/2022/honesty/#policy
-## Aby to the Academic Honesty Policy and do not copy the solutions.
+
+_**Aby to the Academic Honesty Policy and do not copy the solutions.**_
 
 # Warehouse Manaement
 #### Video Demo:  <https://youtu.be/RZJjEl4LdiM>
